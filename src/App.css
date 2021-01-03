@@ -1,0 +1,6 @@
+*{
+  padding: 5px;
+}
+.clickable{
+  cursor: pointer;
+}
